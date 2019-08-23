@@ -1,0 +1,4 @@
+.vscode
+scrapingenv
+wikiSpider/wikiSpider/__pycache__
+wikiSpider/wikiSpider/spiders/__pycache__
